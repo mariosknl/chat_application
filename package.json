@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "5.2.6",
-    "@testing-library/jest-dom": "6.1.6",
+    "@testing-library/jest-dom": "6.2.0",
     "axios": "1.6.3",
     "react": "18.2.0",
     "react-chat-engine": "1.11.28",
